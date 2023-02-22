@@ -61,3 +61,4 @@ async function imageScanResult(error, results) {
         element.innerHTML = results[0].label + "Confidence: " + num.toFixed(0) + "%";
     }
 }
+3
